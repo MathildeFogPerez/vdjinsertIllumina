@@ -9,7 +9,8 @@ SUMMARY
 
 We have made available here a series of scripts to analyze non-VDJ insertions in human antibody transcripts.
 
-The scripts are primarily intended as reference for manuscript "Different classes of genomic inserts contribute to human antibody diversity" rather than a stand-alone application.
+
+The scripts are primarily intended as reference for manuscript "Different classes of genomic inserts contribute to human antibody diversity" rather than a stand-alone application. https://www.pnas.org/doi/abs/10.1073/pnas.2205470119
 
 The input of the pipeline is 300 bp paired-end reads coming from a target amplicon of the antibody transcripts (heavy or light chain). Data can be found at SRA db: PRJNA638005 accession number.
 
